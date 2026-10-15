@@ -1,0 +1,5 @@
+cryptography>=41.0.0
+pgpy>=0.6.0
+python-gnupg>=0.5.2
+python-nmap>=0.7.1
+scapy>=2.5.0
